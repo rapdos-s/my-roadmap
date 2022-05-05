@@ -279,7 +279,7 @@ Roadmaps
 
 <details>
 <summary>
-Course
+Courses
 </summary>
 </br>
 
@@ -310,12 +310,7 @@ Books
 
 The Internet is a global network of computers connected to each other which communicate through a standardized set of protocols.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
+<details><summary>Free Content</summary></br>
 
 ```READ``` [The Internet Explained](https://www.vox.com/2014/6/16/18076282/the-internet "The Internet Explained")
 
@@ -325,7 +320,6 @@ Free Content
 
 ```WATCH``` [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc&ab_channel=Aaron "How the Internet Works in 5 Minutes")
 
-
 </details>
 
 ##
@@ -334,12 +328,7 @@ Free Content
 
 HTTP is the ```TCP/IP``` based application layer communication protocol which standardizes how the client and server communicate with each other. It defines how the content is requested and transmitted across the internet.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
+<details><summary>Free Content</summary></br>
 
 ```READ``` [What is HTTP?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/ "What is HTTP?")
 
@@ -351,7 +340,6 @@ Free Content
 
 ```WATCH``` [HTTP Crash Course & Exploration](https://www.youtube.com/watch?v=iYM2zFP3Zn0&ab_channel=TraversyMedia "HTTP Crash Course & Exploration")
 
-
 </details>
 
 ##
@@ -360,12 +348,7 @@ Free Content
 
 A web browser is a software application that enables a user to access and display web pages or other online content through its graphical user interface.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
+<details><summary>Free Content</summary></br>
 
 ```READ``` [How Browsers Work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/ "How Browsers Work")
 
@@ -375,7 +358,6 @@ Free Content
 
 ```WATCH``` [How Do Web Browsers Work?](https://www.youtube.com/watch?v=WjDrMKZWCt0&ab_channel=DaveXiang "How Do Web Browsers Work?")
 
-
 </details>
 
 ##
@@ -384,12 +366,7 @@ Free Content
 
 The Domain Name System (DNS) is the phonebook of the Internet. Humans access information online through domain names, like nytimes.com or espn.com. Web browsers interact through Internet Protocol (IP) addresses. DNS translates domain names to IP addresses so browsers can load Internet resources.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
+<details><summary>Free Content</summary></br>
 
 ```READ``` [What is DNS?](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/ "What is DNS?")
 
@@ -399,7 +376,6 @@ Free Content
 
 ```WATCH``` [When to add glue records to DNS settings](https://www.youtube.com/watch?v=e48AyJOA9W8&ab_channel=PieterExplainsTech "When to add glue records to DNS settings")
 
-
 </details>
 
 ##
@@ -408,19 +384,13 @@ Free Content
 
 A domain name is a unique, easy-to-remember address used to access websites, such as ‘google.com’, and ‘facebook.com’. Users can connect to websites using domain names thanks to the DNS system.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
+<details><summary>Free Content</summary></br>
 
 ```READ``` [What is a Domain Name?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name "What is a Domain Name?")
 
 ```READ``` [What is a Domain Name? | Domain name vs. URL](https://www.cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/ "What is a Domain Name? | Domain name vs. URL")
 
 ```WATCH``` [A Beginners Guide to How Domain Names Work](https://www.youtube.com/watch?v=Y4cRx19nhJk&ab_channel=CreateaProWebsite "A Beginners Guide to How Domain Names Work")
-
 
 </details>
 
@@ -430,19 +400,13 @@ Free Content
 
 Web hosting is an online service that allows you to publish your website files onto the internet. So, anyone who has access to the internet has access to your website.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
+<details><summary>Free Content</summary></br>
 
 ```WATCH``` [What Is Web Hosting? Explained](https://www.youtube.com/watch?v=htbY9-yggB0&ab_channel=Pickaweb.co.uk "What Is Web Hosting? Explained")
 
 ```WATCH``` [Different Types of Web Hosting Explained](https://www.youtube.com/watch?v=AXVZYzw8geg&ab_channel=CraylorMade "Different Types of Web Hosting Explained")
 
 ```WATCH``` [Where to Host a Fullstack Project on a Budget](https://www.youtube.com/watch?v=Kx_1NYYJS7Q&ab_channel=BenAwad "Where to Host a Fullstack Project on a Budget")
-
 
 </details>
 
@@ -454,12 +418,7 @@ Free Content
 
 HTML stands for HyperText Markup Language. It is used on the frontend and gives the structure to the webpage which you can style using CSS and make interactive using JavaScript.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
+<details><summary>Free Content</summary></br>
 
 ```READ``` [W3Schools: Learn HTML](https://www.w3schools.com/html/html_intro.asp "W3Schools: Learn HTML")
 
@@ -481,17 +440,11 @@ Free Content
 
 Semantic element clearly describes its meaning to both the browser and the developer.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
+<details><summary>Free Content</summary></br>
 
 ```READ``` [W3Schools: Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp "W3Schools: Semantic HTML")
 
 ```READ``` [How To Write Semantic HTML](https://hackernoon.com/how-to-write-semantic-html-dkq3ulo "How To Write Semantic HTML")
-
 
 </details>
 
@@ -501,12 +454,7 @@ Free Content
 
 Before submitting data to the server, it is important to ensure all required form controls are filled out, in the correct format. This is called client-side form validation, and helps ensure data submitted matches the requirements set forth in the various form controls.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
+<details><summary>Free Content</summary></br>
 
 ```READ``` [MDN Web Docs: Client-side form validation](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation "MDN Web Docs: Client-side form validation")
 
@@ -518,12 +466,7 @@ Free Content
 
 Learn to follow the best practices for writing maintainable and scalable HTML documents.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
+<details><summary>Free Content</summary></br>
 
 ```READ``` [HTML Best Practices](https://github.com/hail2u/html-best-practices "HTML Best Practices")
 
@@ -535,20 +478,13 @@ Free Content
 
 Web accessibility means that websites, tools, and technologies are designed and developed in such a way that people with disabilities can use them easily.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```WATCH``` [Complete Playlist on Accessibility](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g "Complete Playlist on Accessibility")
 
 ```READ``` [Accessibility Tutorial](https://www.w3schools.com/accessibility/index.php "Accessibility Tutorial")
 
 ```READ``` [A Complete Guide To Accessible Front-End Components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/ "A Complete Guide To Accessible Front-End Components")
-
 
 </details>
 
@@ -558,13 +494,7 @@ Free Content
 
 SEO or Search Engine Optimization is the technique used to optimize your website for better rankings on search engines such as Google, Bing etc.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Google Search Central — SEO Docs](https://developers.google.com/search/docs "Google Search Central — SEO Docs")
 
@@ -576,7 +506,6 @@ Free Content
 
 ```WATCH``` [SEO Expert Course](https://www.youtube.com/watch?v=SnxeXZpZkI0&ab_channel=Simplilearn "SEO Expert Course")
 
-
 </details>
 
 ##
@@ -585,13 +514,7 @@ Free Content
 
 CSS or Cascading Style Sheets is the language used to style the frontend of any website. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [W3Schools — Learn CSS](https://www.w3schools.com/css/ "W3Schools — Learn CSS")
 
@@ -613,17 +536,13 @@ Free Content
 
 ```COURSE``` [Learn Intermediate CSS | Codecademy](https://www.codecademy.com/learn/learn-intermediate-css "Learn Intermediate CSS | Codecademy")
 
+</details>
+
 ##
 
 <h3>CSS Basics</h3>
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [W3Schools — Learn CSS](https://www.w3schools.com/css/ "W3Schools — Learn CSS")
 
@@ -637,7 +556,6 @@ Free Content
 
 ```COURSE``` [CSS Masterclass - Tutorial & Course for Beginners](https://www.youtube.com/watch?v=FqmB-Zj2-PA&ab_channel=ChrisCourses "CSS Masterclass - Tutorial & Course for Beginners")
 
-
 </details>
 
 ##
@@ -648,12 +566,7 @@ Float, grid, flexbox, positioning, display and box model are some of the key top
 
 Floats, Positioning, Display, Box Model, CSS Grid, Flex Box.
 
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Learn and Practice Flexbox](https://flexboxfroggy.com/ "Learn and Practice Flexbox")
 
@@ -667,7 +580,6 @@ Free Content
 
 ```READ``` [The CSS Display Property](https://www.freecodecamp.org/news/the-css-display-property-display-none-display-table-inline-block-and-more/ "The CSS Display Property")
 
-
 </details>
 
 ##
@@ -676,20 +588,13 @@ Free Content
 
 Responsive Web Designing is the technique to make your webpages look good on all screen sizes. There are certain techniques used to achieve that e.g. CSS media queries, percentage widths, min or max widths heights etc.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Responsive Web Design](https://www.w3schools.com/css/css_rwd_intro.asp "Responsive Web Design")
 
 ```READ``` [Learn Responsive Design](https://web.dev/learn/design/ "Learn Responsive Design")
 
 ```WATCH``` [Introduction To Responsive Web Design](https://www.youtube.com/watch?v=srvUrASNj0s&ab_channel=freeCodeCamp.org "Introduction To Responsive Web Design")
-
 
 </details>
 
@@ -703,13 +608,7 @@ Free Content
 
 JavaScript allows you to add interactivity to your pages. Common examples that you may have seen on the websites are sliders, click interactions, popups and so on.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [W3Schools – JavaScript Tutorial](https://www.w3schools.com/js/ "W3Schools – JavaScript Tutorial")
 
@@ -721,7 +620,6 @@ Free Content
 
 ```COURSE``` [Learn the basics of JavaScript](https://github.com/workshopper/javascripting "Learn the basics of JavaScript")
 
-
 </details>
 
 ##
@@ -731,12 +629,7 @@ Free Content
 The Document Object Model (DOM) connects web pages to scripts or programming languages by representing the structure of a document—such as the HTML representing a web page—in memory.
 
 
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [What is the DOM?](https://www.freecodecamp.org/news/what-is-the-dom-document-object-model-meaning-in-javascript/ "What is the DOM?")
 
@@ -748,7 +641,6 @@ Free Content
 
 ```WATCH``` [JavaScript DOM Crash Course](https://www.youtube.com/watch?v=0ik6X4DJKCc&ab_channel=TraversyMedia "JavaScript DOM Crash Course")
 
-
 </details>
 
 ##
@@ -757,18 +649,11 @@ Free Content
 
 Ajax is the technique that lets us send and receive the data asynchronously from the servers e.g. updaing the user profile or asynchronously fetch the list of searched products without reloading the page.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Fetch API MDN Docs](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API "Fetch API MDN Docs")
 
 ```WATCH``` [JavaScript Fetch API](https://www.youtube.com/watch?v=-ZI0ea5O2oA&ab_channel=theroadmap "JavaScript Fetch API")
-
 
 </details>
 
@@ -778,20 +663,13 @@ Free Content
 
 ECMAScript 2015 or ES2015 is a significant update to the JavaScript programming language. It is the first major update to the language since ES5 which was standardized in 2009. You should look at the features introduced with ES6 and onwards.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [ES6 Tutorial](https://www.javascripttutorial.net/es6/ "ES6 Tutorial")
 
 ```WATCH``` [Learn Modern JavaScript in 1 Hour](https://www.youtube.com/watch?v=NCwa_xi0Uuc&ab_channel=ProgrammingwithMosh "Learn Modern JavaScript in 1 Hour")
 
 ```WATCH``` [JavaScript ES6, ES7, ES8](https://www.youtube.com/watch?v=nZ1DMMsyVyI&ab_channel=freeCodeCamp.org "JavaScript ES6, ES7, ES8")
-
 
 </details>
 
@@ -801,13 +679,7 @@ Free Content
 
 Learn and understand the concepts such as Hoisting, Event Bubbling, Scope, Prototype, Shadow DOM and strict.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [JavaScript Hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting "JavaScript Hoisting")
 
@@ -825,7 +697,6 @@ Free Content
 
 ```WATCH``` [DOM vs Shadow DOM vs Virtual DOM](https://www.youtube.com/watch?v=7Tok22qxPzQ&ab_channel=theroadmap "DOM vs Shadow DOM vs Virtual DOM")
 
-
 </details>
 
 ##
@@ -836,18 +707,13 @@ Free Content
 
 Operating System is a program that manages a computer’s resources, especially the allocation of those resources among other programs. Typical resources include the central processing unit (CPU), computer memory, file storage, input/output (I/O) devices, and network connections.
 
-<details>
-<summary>
-Free Content
-</summary>
-</br>
+<details><summary>Free Content</summary></br>
 
 ```READ``` [What is an operating system?](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/ "What is an operating system?")
 
 ```WATCH``` [Operating Systems: Crash Course Computer Science #18](https://www.youtube.com/watch?v=26QPDBe-NB8&ab_channel=CrashCourse "Operating Systems: Crash Course Computer Science #18")
 
 ```WATCH``` [Introduction to Operating System](https://www.youtube.com/watch?v=vBURTt97EkA&list=PL9hkZBQk8d1zEGbY7ShWCZ2n1gtxqkRrS&index=2&ab_channel=NesoAcademy "Introduction to Operating System")
-
 
 </details>
 
@@ -857,11 +723,7 @@ Free Content
 
 Terminals, also known as command lines or consoles, allow us to accomplish and automate tasks on a computer without the use of a graphical user interface.
 
-<details>
-<summary>
-Free Content
-</summary>
-</br>
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Command line crash course](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line "Command line crash course")
 
@@ -879,11 +741,7 @@ Free Content
 
 Process management involves various tasks like creation, scheduling, termination of processes, and a deadlock. Process is a program that is under execution, which is an important part of modern-day operating systems. The OS must allocate resources that enable processes to share and exchange information. It also protects the resources of each process from other methods and allows synchronization among processes.
 
-<details>
-<summary>
-Free Content
-</summary>
-</br>
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Operating System: Process and Process Management](https://medium.com/@akhandmishra/operating-system-process-and-process-management-108d83e8ce60 "Operating System: Process and Process Management")
 
@@ -899,11 +757,7 @@ A thread is the smallest unit of processing that can be performed in an OS. In m
 
 Concurrency refers to the execution of multiple threads at the same time. It occurs in an operating system when multiple process threads are executing concurrently. These threads can interact with one another via shared memory or message passing. Concurrency results in resource sharing, which causes issues like deadlocks and resource scarcity. It aids with techniques such as process coordination, memory allocation, and execution schedule to maximize throughput.
 
-<details>
-<summary>
-Free Content
-</summary>
-</br>
+<details><summary>Free Content</summary></br>
 
 ```READ``` [What’s the Diff: Programs, Processes and Threads](https://www.backblaze.com/blog/whats-the-diff-programs-processes-and-threads/ "What’s the Diff: Programs, Processes and Threads")
 
@@ -931,11 +785,7 @@ To understand these commands, read through the manual pages by using ```man``` c
 
 After enough exposure and practice to these commands, it will become easier to use these in practice
 
-<details>
-<summary>
-Free Content
-</summary>
-</br>
+<details><summary>Free Content</summary></br>
 
 ```COURSE``` [Command Line Tutorial](https://www.learnenough.com/command-line-tutorial "Command Line Tutorial")
 
@@ -951,11 +801,7 @@ The term Memory can be defined as a collection of data in a specific format. It 
 
 To achieve a degree of multiprogramming and proper utilization of memory, memory management is important. There are several memory management methods, reflecting various approaches, and the effectiveness of each algorithm depends on the situation.
 
-<details>
-<summary>
-Content
-</summary>
-</br>
+<details><summary>Content</summary></br>
 
 ```READ``` [Demystifying memory management in modern programming languages](https://dev.to/deepu105/demystifying-memory-management-in-modern-programming-languages-ddd "Demystifying memory management in modern programming languages")
 
@@ -969,11 +815,7 @@ Content
 
 Interprocess communication (IPC) refers specifically to the mechanisms an operating system provides to allow the processes to manage shared data
 
-<details>
-<summary>
-Content
-</summary>
-</br>
+<details><summary>Content</summary></br>
 
 ```READ``` [Interprocess Communication](https://www.geeksforgeeks.org/inter-process-communication-ipc/ "Interprocess Communication")
 
@@ -1000,11 +842,7 @@ Content
 <h2>Logic Algorithms Programming</h2>
 
 
-<details>
-<summary>
-Free Content
-</summary>
-</br>
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Difference between Algorithm, Pseudocode and Program](https://www.geeksforgeeks.org/difference-between-algorithm-pseudocode-and-program/#:~:text=Algorithm%20%3A%20Systematic%20logical%20approach%20which,in%20a%20specific%20programming%20language. "Difference between Algorithm, Pseudocode and Program")
 
@@ -1021,13 +859,11 @@ Make sure to learn its quirks. Core details about its runtime e.g. concurrency, 
 - Python
 - Node.js
 
-<details>
-<summary>
-Free Content
-</summary>
-</br>
+<details><summary>Free Content</summary></br>
 
 ```READ``` ```PT-BR``` [Otimização de código em Linguagem C](https://sergioprado.org/otimizacao-de-codigo-em-linguagem-c-parte-1/ "Otimização de código em Linguagem C")
+
+</details>
 
 ##
 
@@ -1036,19 +872,13 @@ Free Content
 Version control systems allow you to track changes to your codebase/files over time. They allow you to go back to some previous version of the codebase without any issues. Also, they help in collaborating with people working on the same code – if you’ve ever collaborated with other people on a project, you might already know the frustration of copying and merging the changes from someone else into your codebase; version control systems allow you to get rid of this issue.
 
 
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```WATCH``` [Version Control System Introduction](https://www.youtube.com/watch?v=zbKdDsNNOhg "Version Control System Introduction")
 
 ```WATCH``` [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc&ab_channel=TraversyMedia "Git & GitHub Crash Course For Beginners")
 
 ```WATCH``` [Learn Git in 20 Minutes](https://www.youtube.com/watch?v=Y9XZQO1n_7c&t=21s&ab_channel=CodeInsights "Learn Git in 20 Minutes")
-
 
 </details>
 
@@ -1058,20 +888,13 @@ Free Content
 
 [Git](https://git-scm.com/ "Git") is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```WATCH``` [Version Control System Introduction](https://www.youtube.com/watch?v=zbKdDsNNOhg&ab_channel=Udacity "Version Control System Introduction")
 
 ```WATCH``` [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc&ab_channel=TraversyMedia "Git & GitHub Crash Course For Beginners")
 
 ```WATCH``` [Learn Git in 20 Minutes](https://www.youtube.com/watch?v=Y9XZQO1n_7c&t=21s&ab_channel=CodeInsights "Learn Git in 20 Minutes")
-
 
 </details>
 
@@ -1081,19 +904,13 @@ Free Content
 
 There are different repository hosting services with the most famous one being GitHub, GitLab and BitBucket. I would recommend creating an account on GitHub because that is where most of the OpenSource work is done and most of the developers are.
 
-
-<details>
-<summary>
-Services Links
-</summary>
-</br>
+<details><summary>Services Links</summary></br>
 
 ```VISIT``` [GitHub: Where the world builds software](https://github.com/ "GitHub: Where the world builds software")
 
 ```VISIT``` [GitLab: Iterate faster, innovate together](https://about.gitlab.com/ "GitLab: Iterate faster, innovate together")
 
 ```VISIT``` [BitBucket: The Git solution for professional teams](https://bitbucket.org/ "BitBucket: The Git solution for professional teams")
-
 
 </details>
 
@@ -1105,15 +922,9 @@ Services Links
 is a provider of internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features.
 
 
-<details>
-<summary>
-Services Links
-</summary>
-</br>
-
+<details><summary>Services Links</summary></br>
 
 ```READ``` [GitHub: Quickstart](https://docs.github.com/en/get-started/quickstart/hello-world "GitHub: Quickstart")
-
 
 ```WATCH``` [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E&ab_channel=GitHub "What is GitHub?")
 
@@ -1131,13 +942,7 @@ Services Links
 
 [GitLab](https://about.gitlab.com/ "GitLab") is a provider of internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```VISIT``` [GitLab Website](https://about.gitlab.com/ "GitLab Website")
 
@@ -1151,13 +956,7 @@ Free Content
 
 [BitBucket](https://bitbucket.org/ "BitBucket") is a provider of internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```VISIT``` [BitBucket Website](https://bitbucket.org/ "BitBucket Website")
 
@@ -1171,13 +970,7 @@ Free Content
 
 A relational database is ```a type of database that stores and provides access to data points that are related to one another```. Relational databases store data in a series of tables. Interconnections between the tables are specified as foreign keys. A foreign key is a unique reference from one row in a relational table to another row in a table, which can be the same table but is most commonly a different table.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Relational Databases](https://www.ibm.com/cloud/learn/relational-databases "Relational Databases")
 
@@ -1191,19 +984,13 @@ Free Content
 
 </details>
 
-
 ##
 
 <h3>PostgreSQL</h3>
 
 PostgreSQL, also known as Postgres, is a free and open-source relational database management system emphasizing extensibility and SQL compliance.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITE``` [Official Website](https://www.postgresql.org/ "Official Website")
 
@@ -1215,19 +1002,13 @@ Free Content
 
 </details>
 
-
 ##
 
 <h3>MySQL</h3>
 
 MySQL is an incredibly popular open source relational database management system (RDBMS). MySQL can be used as a stand-alone client or in conjunction with other services to provide database connectivity. The ```M``` in LAMP stack stands for MySQL; that alone should provide an idea of its prevalence.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
+<details><summary>Free Content</summary></br>
 
 ```MYSQL WEBSITE``` [MySQL website](https://www.mysql.com/ "MySQL website")
 
@@ -1237,19 +1018,13 @@ Free Content
 
 </details>
 
-
 ##
 
 <h3>MariaDB</h3>
 
 MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry. MariaDB was created with the intention of being a more versatile, drop-in replacement version of MySQL
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
+<details><summary>Free Content</summary></br>
 
 ```MARIADB WEBSITE``` [MariaDB website](https://mariadb.org/ "MariaDB website")
 
@@ -1268,12 +1043,7 @@ Free Content
 
 MS SQL (or Microsoft SQL Server) is the Microsoft developed relational database management system (RDBMS). MS SQL uses the T-SQL (Transact-SQL) query language to interact with the relational databases. There are many different versions and editions available of MS SQL
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
+<details><summary>Free Content</summary></br>
 
 ```MS SQL WEBSITE``` [MS SQL website](https://www.microsoft.com/en-ca/sql-server/ "MS SQL website")
 
@@ -1295,12 +1065,7 @@ Free Content
 
 Object-Relational Mapping (ORM) is a technique that lets you query and manipulate data from a database using an object-oriented paradigm. When talking about ORM, most people are referring to a library that implements the Object-Relational Mapping technique, hence the phrase "an ORM".
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Object Relational Mapping - Wikipedia](https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping "Object Relational Mapping - Wikipedia")
 
@@ -1314,12 +1079,7 @@ Free Content
 
 ACID are the four properties of any database system that help in making sure that we are able to perform the transactions in a reliable manner. It's an acronym which refers to the presence of four properties: atomicity, consistency, isolation and durability
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
+<details><summary>Free Content</summary></br>
 
 ```WATCH``` [ACID Explained: Atomic, Consistent, Isolated & Durable](https://www.youtube.com/watch?v=yaQ5YMWkxq4 "ACID Explained: Atomic, Consistent, Isolated & Durable")
 
@@ -1339,12 +1099,7 @@ Free Content
 
 The N+1 query problem happens when your code executes N additional query statements to fetch the same data that could have been retrieved when executing the primary query.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
+<details><summary>Free Content</summary></br>
 
 ```READ``` [In Detail Explanation of N+1 Problem](https://medium.com/doctolib/understanding-and-fixing-n-1-query-30623109fe89 "In Detail Explanation of N+1 Problem")
 
@@ -1372,12 +1127,7 @@ Free Content
 
 CAP is an acronym that stands for Consistency, Availability and Partition Tolerance. According to CAP theorem, any distributed system can only guarantee two of the three properties at any point of time. You can't guarantee all three properties at once.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
+<details><summary>Free Content</summary></br>
 
 ```WATCH``` [What is CAP Theorem?](https://www.youtube.com/watch?v=_RbsFXWRZ10&ab_channel=theroadmap "What is CAP Theorem?")
 
@@ -1397,12 +1147,7 @@ Free Content
 
 NoSQL databases offer data storage and retrieval that is modelled differently to "traditional" relational databases. NoSQL databases typically focus more on horizontal scaling, eventual consistency, speed and flexibility and is used commonly for big data and real-time streaming applications. NoSQL is often described as a BASE system (```B```asically ```A```vailable, ```S```oft state, ```E```ventual consistency) as opposed to SQL/relational which typically focus on ACID (Atomicity, Consistency, Isolation, Durability). Common NoSQL data structures include key-value pair, wide column, graph and document.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
+<details><summary>Free Content</summary></br>
 
 ```READ``` [NoSQL Explained](https://www.mongodb.com/nosql-explained "NoSQL Explained")
 
@@ -1420,12 +1165,7 @@ Free Content
 
 MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License (SSPL).
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITE``` [MongoDB Website](https://www.mongodb.com/ "MongoDB Website")
 
@@ -1457,11 +1197,7 @@ Free Content
 
 HATEOAS is an acronym for ```H```ypermedia ```A```s ```T```he ```E```ngine ```O```f ```A```pplication ```S```tate, it's the concept that when sending information over a RESTful API the document received should contain everything the client needs in order to parse and use the data i.e they don't have to contact any other endpoint not explicitly mentioned within the Document
 
-<details>
-<summary>
-Free Content
-</summary>
-</br>
+<details><summary>Free Content</summary></br>
 
 ```WATCH``` [Oktane17: Designing Beautiful REST + JSON APIs (3:56 - 5:57)](https://www.youtube.com/watch?v=MiOSzpfP1Ww&t=236s "Oktane17: Designing Beautiful REST + JSON APIs (3:56 - 5:57)")
 
@@ -1475,11 +1211,7 @@ The OpenAPI Specification (OAS) defines a standard, language-agnostic interface 
 
 An OpenAPI definition can then be used by documentation generation tools to display the API, code generation tools to generate servers and clients in various programming languages, testing tools, and many other use cases.
 
-<details>
-<summary>
-Free Content
-</summary>
-</br>
+<details><summary>Free Content</summary></br>
 
 ```FRAMEWORK WEBSITE``` [OpenAPI Specification Website](https://swagger.io/specification/ "OpenAPI Specification Website")
 
@@ -1501,11 +1233,7 @@ Free Content
 
 JSON or JavaScript Object Notation is an encoding scheme that is designed to eliminate the need for an ad-hoc code for each application to communicate with servers that communicate in a defined way. JSON API module exposes an implementation for data stores and data structures, such as entity types, bundles, and fields.
 
-<details>
-<summary>
-Free Content
-</summary>
-</br>
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Official Website](https://jsonapi.org/ "Official Website")
 
@@ -1529,11 +1257,7 @@ Free Content
 
 A Content Delivery Network (CDN) service aims to provide high availability and performance improvements of websites. This is achieved with fast delivery of website assets and content typically via geographically closer endpoints to the client requests. Traditional commercial CDNs (Amazon CloudFront, Akamai, CloudFlare and Fastly) provide servers across the globe which can be used for this purpose. Serving assets and contents via a CDN reduces bandwidth on website hosting, provides an extra layer of caching to reduce potential outages and can improve website security as well
 
-<details>
-<summary>
-Free Content
-</summary>
-</br>
+<details><summary>Free Content</summary></br>
 
 ```READ``` [CloudFlare - What is a CDN? | How do CDNs work?](https://www.cloudflare.com/en-ca/learning/cdn/what-is-a-cdn/ "CloudFlare - What is a CDN? | How do CDNs work?")
 
@@ -1569,13 +1293,7 @@ Free Content
 
 Web security refers to the protective measures taken by the developers to protect the web applications from threats that could affect the business.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Why HTTPS Matters](https://web.dev/why-https-matters/ "Why HTTPS Matters")
 
@@ -1601,13 +1319,7 @@ Free Content
 
 MD5 (Message-Digest Algorithm 5) is a hash function that is currently advised not to be used due to it's extensive vulnerabilities. It is still used as a checksum to verify data integrity.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Wikipedia - MD5](https://pl.wikipedia.org/wiki/MD5 "Wikipedia - MD5")
 
@@ -1631,13 +1343,7 @@ Free Content
 
 bcrypt is a password hashing function, that has proven been proven reliable and secure since it's release in 1999.It has been implemented into most commonly-used programming languages.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```WATCH``` [bcrypt explained](https://www.youtube.com/watch?v=O6cmuiTBZVs&ab_channel=HackReactor "bcrypt explained")
 
@@ -1653,13 +1359,7 @@ Free Content
 
 HTTPS is a secure way to send data between a web server and a browser.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [What is HTTPS?](https://www.cloudflare.com/en-gb/learning/ssl/what-is-https/ "What is HTTPS?")
 
@@ -1679,13 +1379,7 @@ Free Content
 
 Content Security Policy is a computer security standard introduced to prevent cross-site scripting, clickjacking and other code injection attacks resulting from execution of malicious content in the trusted web page context.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [MDN — Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP "MDN — Content Security Policy (CSP)")
 
@@ -1699,13 +1393,7 @@ Free Content
 
 Cross-Origin Resource Sharing (CORS) is an HTTP-header based mechanism that allows a server to indicate any origins (domain, scheme, or port) other than its own from which a browser should permit loading resources.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [CORS — Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS "CORS — Cross-Origin Resource Sharing")
 
@@ -1721,13 +1409,7 @@ Free Content
 
 OWASP or Open Web Application Security Project is an online community that produces freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Wikipedia - OWASP](https://en.wikipedia.org/wiki/OWASP "Wikipedia - OWASP")
 
@@ -1745,13 +1427,7 @@ Free Content
 
 Package managers allow you to manage the dependencies (external code written by you or someone else) that your project needs to work correctly.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Modern JavaScript for Dinosaurs](https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html "Modern JavaScript for Dinosaurs")
 
@@ -1773,13 +1449,7 @@ Free Content
 
 npm is a package manager for the JavaScript programming language maintained by npm, Inc. npm is the default package manager for the JavaScript runtime environment Node.js.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```COURSE``` [How to NPM](https://github.com/workshopper/how-to-npm "How to NPM")
 
@@ -1799,13 +1469,7 @@ Yarn is a software packaging system developed in 2016 by Facebook for Node.js Ja
 
 CSS is notoriously difficult to manage in large, complex, rapidly-iterated systems. There are different ways of writing CSS that allows in writing more maintainable CSS.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [A Look at Some CSS Methodologies](https://www.webfx.com/blog/web-design/css-methodologies/ "A Look at Some CSS Methodologies")
 
@@ -1823,13 +1487,7 @@ Free Content
 
 The Block, Element, Modifier methodology (commonly referred to as BEM) is a popular naming convention for classes in HTML and CSS. Developed by the team at Yandex, its goal is to help developers better understand the relationship between the HTML and CSS in a given project.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITE``` [BEM Official Website](https://en.bem.info/ "BEM Official Website")
 
@@ -1847,13 +1505,7 @@ Free Content
 
 As with any object-based coding method, the purpose of OOCSS or Object Oriented CSS is to encourage code reuse and, ultimately, faster and more efficient stylesheets that are easier to add to and maintain.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITE``` [OOCSS Official Website](http://oocss.org/ "OOCSS Official Website")
 
@@ -1867,13 +1519,7 @@ Free Content
 
 SMACSS (pronounced “smacks”) is more style guide than rigid framework. SMACSS is a way to examine your design process and as a way to fit those rigid frameworks into a flexible thought process. It is an attempt to document a consistent approach to site development when using CSS.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITES``` [MACSS Official Website](http://smacss.com/ "MACSS Official Website")
 
@@ -1885,13 +1531,7 @@ Free Content
 
 CSS Preprocessors are scripting languages that extend the default capabilities of CSS. They enable us to use logic in our CSS code, such as variables, nesting, inheritance, mixins, functions, and mathematical operations.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [CSS Preprocessors Explained](https://www.freecodecamp.org/news/css-preprocessors/#:~:text=CSS%20Preprocessors%20compile%20the%20code,preprocessor%20were%20not%20in%20place. "CSS Preprocessors Explained")
 
@@ -1905,13 +1545,7 @@ Free Content
 
 Sass is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. It lets you write maintainable CSS and provides features like variable, nesting, mixins, extension, functions, loops, conditionals and so on.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITE``` [Sass Website](https://sass-lang.com/ "Sass Website")
 
@@ -1927,13 +1561,7 @@ Free Content
 
 PostCSS is a tool for transforming styles with JS plugins. These plugins can lint your CSS, support variables and mixins, transpile future CSS syntax, inline images, and more.
 
-
-<details>
-<summary>
-Free Resources
-</summary>
-</br>
-
+<details><summary>Free Resources</summary></br>
 
 ```WEBSITE``` [Official Website](https://postcss.org/ "Official Website")
 
@@ -1945,13 +1573,7 @@ Free Resources
 
 Less extends CSS with dynamic behavior such as variables, mixins, operations and functions. Less runs on both the server-side (with Node.js and Rhino) or client-side (modern browsers only).
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Official Website](https://lesscss.org/ "Official Website")
 
@@ -1979,13 +1601,7 @@ This page is a work in progress. Help us by writing a small introduction to the 
 
 npm scripts are the entries in the scripts field of the package.json file. The scripts field holds an object where you can specify various commands and scripts that you want to expose.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Introduction to npm scripts](https://www.geeksforgeeks.org/introduction-to-npm-scripts/ "Introduction to npm scripts")
 
@@ -2005,13 +1621,7 @@ This page is a work in progress. Help us by writing a small introduction to the 
 
 Webpack is a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITE``` [Webpack Official Website](https://webpack.js.org/ "Webpack Official Website")
 
@@ -2025,13 +1635,7 @@ Free Content
 
 Our current build tools for the web are 10-100x slower than they could be. The main goal of the esbuild bundler project is to bring about a new era of build tool performance, and create an easy-to-use modern bundler along the way.
 
-
-<details>
-<summary>
-Content
-</summary>
-</br>
-
+<details><summary>Content</summary></br>
 
 ```OFFICIAL WEBSITE``` [Esbuild Official Website](https://esbuild.github.io/ "Esbuild Official Website")
 
@@ -2047,13 +1651,7 @@ Content
 
 Rollup is a module bundler for JavaScript which compiles small pieces of code into something larger and more complex, such as a library or application.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Official Website and Docs](https://rollupjs.org/guide/en/ "Official Website and Docs")
 
@@ -2067,13 +1665,7 @@ Free Content
 
 Parcel is a web application bundler, differentiated by its developer experience. It offers blazing-fast performance utilizing multicore processing and requires zero configuration.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITE``` [Official Website and Docs](https://parceljs.org/plugin-system/bundler/ "Official Website and Docs")
 
@@ -2087,13 +1679,7 @@ Free Content
 
 Vite is a build tool that aims to provide a faster and leaner development experience for modern web projects.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITE``` [Vite Website](https://vitejs.dev/ "Vite Website")
 
@@ -2117,13 +1703,7 @@ This page is a work in progress. Help us by writing a small introduction to the 
 
 Prettier is an opinionated code formatter with support for JavaScript, HTML, CSS, and more.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```WEBSITE``` [Prettier Website](https://prettier.io/ "Prettier Website")
 
@@ -2135,13 +1715,7 @@ Free Content
 
 With ESLint you can impose the coding standard using a certain set of standalone rules.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITEE``` [SLint Official Website](https://eslint.org/ "SLint Official Website")
 
@@ -2157,13 +1731,7 @@ Free Content
 
 Standardjs is a Style guide, with linter & automatic code fixer. It is a way to enforce consistent style in your project. It automatically formats code. Standard JS is a tool in the Code Review category of a tech stack.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Official Website](https://standardjs.com/ "Official Website")
 
@@ -2177,13 +1745,7 @@ Free Content
 
 Web frameworks are designed to write web applications. Frameworks are collections of libraries that aid in the development of a software product or website. Frameworks for web application development are collections of various tools. Frameworks vary in their capabilities and functions, depending on the tasks set. They define the structure, establish the rules, and provide the development tools required.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```WATCH``` [What is the difference between a framework and a library?](https://www.youtube.com/watch?v=D_MO9vIRBcA&ab_channel=SherifRamadan "What is the difference between a framework and a library?")
 
@@ -2197,13 +1759,7 @@ Free Content
 
 React is the most popular front-end JavaScript library for building user interfaces. React can also render on the server using Node and power mobile apps using React Native.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```FRAMEWORK WEBSITE``` [React Website](https://reactjs.org/ "React Website")
 
@@ -2225,13 +1781,7 @@ Free Content
 
 Redux is a predictable state container for JavaScript apps. It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. On top of that, it provides a great developer experience, such as [live code editing combined with a time traveling debugger](https://github.com/reduxjs/redux-devtools "Redux DevTools").
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Official Website](https://redux.js.org/ "Official Website")
 
@@ -2249,13 +1799,7 @@ Free Content
 
 MobX is an open source state management tool. MobX, a simple, scalable, and standalone state management library, follows functional reactive programming (FRP) implementation and prevents inconsistent state by ensuring that all derivations are performed automatically.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITE``` [MobX Official Website](https://mobx.js.org/README.html "MobX Official Website")
 
@@ -2269,13 +1813,7 @@ Free Content
 
 Recoil is a new state management library built by the Facebook team that simplifies global state management.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITE``` [Recoil Official Website](https://recoiljs.org/ "Recoil Official Website")
 
@@ -2291,13 +1829,7 @@ Free Content
 
 Angular is a component based front-end development framework built on TypeScript which includes a collection of well-integrated libraries that include features like routing, forms management, client-server communication, and more.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Official - Getting started with Angular](https://angular.io/start "Official - Getting started with Angular")
 
@@ -2309,13 +1841,7 @@ Free Content
 
 RxJS (Reactive Extensions for JavaScript) is a library for reactive programming using observables that makes it easier to compose asynchronous or callback-based code.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITE``` [RxJS Official Website](https://rxjs.dev/guide/overview "RxJS Official Website")
 
@@ -2333,13 +1859,7 @@ Free Content
 
 NgRx is an open source library that provides reactive state management for your Angular applications
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL DOCS``` [Official Documentation](https://ngrx.io/docs "Official Documentation")
 
@@ -2355,13 +1875,7 @@ Free Content
 
 Vue.js is an open-source JavaScript framework for building user interfaces and single-page applications. It is mainly focused on front end development.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```FRAMEWORK WEBSITE``` [Vue.js Website](https://vuejs.org/ "Vue.js Website")
 
@@ -2379,13 +1893,7 @@ Free Content
 
 Vuex is a state management pattern + library for Vue.js applications. It serves as a centralized store for all the components in an application, with rules ensuring that the state can only be mutated in a predictable fashion.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Official Documentation](https://vuex.vuejs.org/ "Official Documentation")
 
@@ -2401,13 +1909,7 @@ Free Content
 
 Styled-components is a CSS-in-JS library that enables you to write regular CSS and attach it to JavaScript components. With styled-components, you can use the CSS you’re already familiar with instead of having to learn a new styling structure.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Official Website](https://styled-components.com/ "Official Website")
 
@@ -2423,13 +1925,7 @@ Free Content
 
 CSS files in which all class names and animation names are scoped locally by default.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITE``` [Project GitHub Repository](https://github.com/css-modules/css-modules "Project GitHub Repository")
 
@@ -2445,13 +1941,7 @@ Free Content
 
 Styled JSX is a CSS-in-JS library that allows you to write encapsulated and scoped CSS to style your components. The styles you introduce for one component won't affect other components, allowing you to add, change and delete styles without worrying about unintended side effects.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL DOCS``` [Getting started](https://github.com/vercel/styled-jsx "Getting started")
 
@@ -2465,13 +1955,7 @@ Free Content
 
 Emotion is a library designed for writing css styles with JavaScript. It provides powerful and predictable style composition in addition to a great developer experience with features such as source maps, labels, and testing utilities. Both string and object styles are supported.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Official Website and Docs](https://emotion.sh/docs/introduction "Official Website and Docs")
 
@@ -2487,11 +1971,9 @@ Free Content
 
 ##
 
-
 <h3>Custom elements</h3>
 
 ##
-
 
 <h3>Shadow dom</h3>
 
@@ -2509,13 +1991,7 @@ CSS first frameworks which don't come with JavaScript framework components by de
 
 Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```FRAMEWORK WEBSITE``` [Bootstrap Website](https://getbootstrap.com/ "Bootstrap Website")
 
@@ -2529,13 +2005,7 @@ Free Content
 
 Bulma is a free, open source framework that provides ready-to-use frontend components that you can easily combine to build responsive web interfaces.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```FRAMEWORK WEBSITE``` [Bulma Website](https://bulma.io/ "Bulma Website")
 
@@ -2559,13 +2029,7 @@ JS based and better to use with your framework based JavaScript applications.
 
 CSS Framework that provides atomic CSS classes to help you style components e.g. ```flex```, ```pt-4```, ```text-center``` and ```rotate-90``` that can be composed to build any design, directly in your markup.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```FRAMEWORK WEBSITE``` [Tailwind Website](https://tailwindcss.com/ "Tailwind Website")
 
@@ -2585,13 +2049,7 @@ Free Content
 
 Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITE``` [Chakra UI Website](https://chakra-ui.com/ "Chakra UI Website")
 
@@ -2613,13 +2071,7 @@ Free Content
 
 Material-UI is an open-source framework that features React components that implement Google’s Material Design.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```FRAMEWORK WEBSITE``` [Official Website](https://mui.com/ "Official Website")
 
@@ -2635,13 +2087,7 @@ Free Content
 
 An open-source UI component library for building high-quality, accessible design systems and web apps.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```FRAMEWORK WEBSITE``` [Official Website](https://www.radix-ui.com/ "Official Website")
 
@@ -2656,13 +2102,7 @@ Free Content
 Learn the difference between Unit, Integration, and Functional tests and learn how to write them with the tools listed on the left.
 Before delivering your application to users, you need to be sure that your app meets the requirements it was designed for, and that it doesn't do any weird, unintended things (called 'bugs'). To accomplish this, we 'test' our applications in different ways.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [A comprehensive dive into software testing.](https://www.softwaretestingmaterial.com/software-testing/ "A comprehensive dive into software testing.")
 
@@ -2678,12 +2118,7 @@ Free Content
 
 Mocha is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases.
 
-<details>
-<summary>
-Free Resources
-</summary>
-</br>
-
+<details><summary>Free Resources</summary></br>
 
 ```OFFICIAL WEBSITE``` [Official Website and Docs](https://mochajs.org/ "Official Website and Docs")
 
@@ -2697,13 +2132,7 @@ Free Resources
 
 Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
 
-
-<details>
-<summary>
-Free Resources
-</summary>
-</br>
-
+<details><summary>Free Resources</summary></br>
 
 ```OFFICIAL WEBSITE``` [Official Website and Docs](https://www.chaijs.com/ "Official Website and Docs")
 
@@ -2719,13 +2148,7 @@ Free Resources
 
 Ava is a JavaScript test runner. It utilizes the async I/O nature of Node and runs concurrent tests, thereby vastly decreasing your test times.
 
-
-<details>
-<summary>
-Free Resources
-</summary>
-</br>
-
+<details><summary>Free Resources</summary></br>
 
 ```OFFICIAL REP``` [Official Repository](https://github.com/avajs/ava "Official Repository")
 
@@ -2741,13 +2164,7 @@ Free Resources
 
 Jasmine is a behavior-driven development framework for testing JavaScript code. It does not depend on any other JavaScript frameworks. It does not require a DOM. And it has a clean, obvious syntax so that you can easily write tests. It provides utilities that can be used to run automated tests for both synchronous and asynchronous code.
 
-
-<details>
-<summary>
-Free Resources
-</summary>
-</br>
-
+<details><summary>Free Resources</summary></br>
 
 ```WEBSITE``` [Official Website](https://jasmine.github.io/ "Official Website")
 
@@ -2765,13 +2182,7 @@ Free Resources
 
 Jest is a delightful JavaScript Testing Framework with a focus on simplicity. It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and more!
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITE``` [Jest Website](https://jestjs.io/ "Jest Website")
 
@@ -2783,13 +2194,7 @@ Free Content
 
 The React Testing Library is a very lightweight solution for testing React components. It provides light utility functions on top of react-dom and react-dom/test-utils, in a way that encourages better testing practices. Its primary guiding principle is: The more your tests resemble the way your software is used, the more confidence they can give you.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL GETTING STARTED``` [Getting Started](https://testing-library.com/docs/react-testing-library/intro/ "Getting Started")
 
@@ -2801,13 +2206,7 @@ Free Content
 
 Cypress framework is a JavaScript-based end-to-end testing framework built on top of Mocha – a feature-rich JavaScript test framework running on and in the browser, making asynchronous testing simple and convenient. It also uses a BDD/TDD assertion library and a browser to pair with any JavaScript testing framework.
 
-
-<details>
-<summary>
-Free Resources
-</summary>
-</br>
-
+<details><summary>Free Resources</summary></br>
 
 ```WEBSITE``` [Official Website](https://www.cypress.io/ "Official Website")
 
@@ -2823,13 +2222,7 @@ Free Resources
 
 Enzyme is a JavaScript Testing utility for React that makes it easier to test your React Components' output. You can also manipulate, traverse, and in some ways simulate runtime given the output.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITE``` [Enzyme Website](https://enzymejs.github.io/enzyme/ "Enzyme Website")
 
@@ -2843,13 +2236,7 @@ Free Content
 
 TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
 
-
-<details>
-<summary>
-Free Resources
-</summary>
-</br>
-
+<details><summary>Free Resources</summary></br>
 
 ```WEBSITE``` [Official Website](https://www.typescriptlang.org/ "Official Website")
 
@@ -2869,13 +2256,7 @@ Free Resources
 
 Flow is a static type checker, designed to find type errors in JavaScript programs.
 
-
-<details>
-<summary>
-Free Resources
-</summary>
-</br>
-
+<details><summary>Free Resources</summary></br>
 
 ```WEBSITE``` [Official Website](https://flow.org/ "Official Website")
 
@@ -2913,13 +2294,7 @@ Learn diferent Web APIs used in PWAs
 - Using Lighthouse;
 - Using DevTools.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Progressive Web Apps for Beginners](https://www.freecodecamp.org/news/what-are-progressive-web-apps/ "Progressive Web Apps for Beginners")
 
@@ -2937,13 +2312,7 @@ Free Content
 
 React is the most popular front-end JavaScript library for building user interfaces. React can also render on the server using Node and power mobile apps using React Native.
 
-
-<details>
-<summary>
-Free Resources
-</summary>
-</br>
-
+<details><summary>Free Resources</summary></br>
 
 ```FRAMEWORK WEBSITE``` [React Website](https://reactjs.org/ "React Website")
 
@@ -2957,19 +2326,15 @@ Free Resources
 
 ```WATCH``` [Understanding React's UI Rendering Process](https://www.youtube.com/watch?v=i793Qm6kv3U&ab_channel=CrossComm%2CInc. "Understanding React's UI Rendering Process")
 
+</details>
+
 ##
 
 <h3>Next.js</h3>
 
 Next.js is an open-source development framework built on top of Node.js enabling React based web applications functionalities such as server-side rendering and generating static websites.
 
-
-<details>
-<summary>
-Free Resources
-</summary>
-</br>
-
+<details><summary>Free Resources</summary></br>
 
 ```WEBSITE``` [Official Website](https://nextjs.org/ "Official Website")
 
@@ -2989,13 +2354,7 @@ Free Resources
 
 After.js is an open-source JavaScript framework for developing SSR (Server Side Rendering) based applications. It is similar to the Next.js framework for server-rendered React apps but uses React Router instead of a folder structure based router like Next.js
 
-
-<details>
-<summary>
-Free Resources
-</summary>
-</br>
-
+<details><summary>Free Resources</summary></br>
 
 ```GITHUB``` [Official GitHub repository](https://github.com/jaredpalmer/after.js "Official GitHub repository")
 
@@ -3009,15 +2368,11 @@ Free Resources
 
 Angular is a component based front-end development framework built on TypeScript which includes a collection of well-integrated libraries that include features like routing, forms management, client-server communication, and more.
 
-
-<details>
-<summary>
-Free Resources
-</summary>
-</br>
-
+<details><summary>Free Resources</summary></br>
 
 ```READ``` [Official - Getting started with Angular](https://angular.io/start "Official - Getting started with Angular")
+
+</details>
 
 ##
 
@@ -3029,13 +2384,7 @@ Free Resources
 
 Vue.js is an open-source JavaScript framework for building user interfaces and single-page applications. It is mainly focused on front end development.
 
-
-<details>
-<summary>
-Free Resources
-</summary>
-</br>
-
+<details><summary>Free Resources</summary></br>
 
 ```FRAMEWORK WEBSITE``` [Vue.js Website](https://vuejs.org/ "Vue.js Website")
 
@@ -3045,19 +2394,15 @@ Free Resources
 
 ```COURSE``` [Vue.js Crash Course](https://www.youtube.com/watch?v=qZXt1Aom3Cs&ab_channel=TraversyMedia "Vue.js Crash Course")
 
+</details>
+
 ##
 
 <h3>Nuxt.js</h3>
 
 Nuxt.js is a free and open source JavaScript library based on Vue.js, Node.js, Webpack and Babel.js. Nuxt is inspired by Next.js, which is a framework of similar purpose, based on React.js.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITE``` [Nuxt Website](https://nuxtjs.org/ "Nuxt Website")
 
@@ -3077,13 +2422,7 @@ Free Content
 
 GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Introduction to GraphQL](https://graphql.org/learn/ "Introduction to GraphQL")
 
@@ -3101,13 +2440,7 @@ Free Content
 
 Apollo is a platform for building a unified graph, a communication layer that helps you manage the flow of data between your application clients (such as web and native apps) and your back-end services.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITE``` [Apollo Website](https://www.apollographql.com/ "Apollo Website")
 
@@ -3125,13 +2458,7 @@ Free Content
 
 Relay is a JavaScript client used in the browser to fetch GraphQL data. It's a JavaScript framework developed by Facebook for managing and fetching data in React applications. It is built with scalability in mind in order to power complex applications like Facebook. The ultimate goal of GraphQL and Relay is to deliver instant UI-response interactions.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITE``` [Official Website](https://relay.dev/ "Official Website")
 
@@ -3145,13 +2472,7 @@ Free Content
 
 A static site generator is a tool that generates a full static HTML website based on raw data and a set of templates. Essentially, a static site generator automates the task of coding individual HTML pages and gets those pages ready to serve to users ahead of time. Because these HTML pages are pre-built, they can load very quickly in users' browsers.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [What is a static site generator?](https://www.cloudflare.com/en-ca/learning/performance/static-site-generator/ "What is a static site generator?")
 
@@ -3169,13 +2490,7 @@ Free Content
 
 Next.js is an open-source development framework built on top of Node.js enabling React based web applications functionalities such as server-side rendering and generating static websites.
 
-
-<details>
-<summary>
-Free Resources
-</summary>
-</br>
-
+<details><summary>Free Resources</summary></br>
 
 ```WEBSITE``` [Official Website](https://nextjs.org/ "Official Website")
 
@@ -3195,13 +2510,7 @@ Free Resources
 
 Gatsby is a React-based open source framework with performance, scalability and security built-in.
 
-
-<details>
-<summary>
-Free Resources
-</summary>
-</br>
-
+<details><summary>Free Resources</summary></br>
 
 ```OFFICIAL WEBSITE``` [Gatsby Website](https://www.gatsbyjs.com/ "Gatsby Website")
 
@@ -3217,13 +2526,7 @@ Free Resources
 
 Nuxt.js is an open-source development framework built on top of Node.js enabling Vue based web applications functionalities such as server-side rendering and generating static websites.
 
-
-<details>
-<summary>
-Free Resources
-</summary>
-</br>
-
+<details><summary>Free Resources</summary></br>
 
 ```WEBSITE``` [Official Website](https://nuxtjs.org/ "Official Website")
 
@@ -3241,12 +2544,7 @@ Free Resources
 
 VuePress is composed of two parts: a minimalistic static site generator (opens new window)with a Vue-powered theming system and Plugin API, and a default theme optimized for writing technical documentation. It was created to support the documentation needs of Vue’s own sub projects.
 
-
-<details>
-<summary>
-Free Resources
-</summary>
-</br>
+<details><summary>Free Resources</summary></br>
 
 ```WEBSITE``` [Official Website](https://vuepress.vuejs.org/ "Official Website")
 
@@ -3262,13 +2560,7 @@ Free Resources
 
 Jekyll is a static site generator. It takes text written in your favorite markup language and uses layouts to create a static website. You can tweak the site’s look and feel, URLs, the data displayed on the page, and more.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITE``` [Jekyll Website](https://jekyllrb.com/ "Jekyll Website")
 
@@ -3282,12 +2574,7 @@ Free Content
 
 Hugo is the world’s fastest static website engine. It’s written in Go (aka Golang) and developed by bep, spf13 and friends.
 
-
-<details>
-<summary>
-Free Resources
-</summary>
-</br>
+<details><summary>Free Resources</summary></br>
 
 ```WEBSITE``` [Official Website](https://gohugo.io/ "Official Website")
 
@@ -3303,13 +2590,7 @@ Free Resources
 
 Gridsome is a Vue.js powered Jamstack framework for building static generated websites & apps that are fast by default.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITE``` [Gridsome Website](https://gridsome.org/ "Gridsome Website")
 
@@ -3323,13 +2604,7 @@ Free Content
 
 Eleventy (11ty) is a simple to use, easy to customize, highly performant and powerful static site generator with a helpful set of plugins (e.g. navigation, build-time image transformations, cache assets). Pages can be built and written with a variety of template languages (HTML, Markdown, JavaScript, Liquid, Nunjucks, Handlebars, Mustache, EJS, Haml, Pug or JS template literals). But it also offers the possibility to dynamically create pages from local data or external sources that are compiled at build time. It has zero client-side JavaScript dependencies.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```WEBSITE``` [Official Website](https://www.11ty.dev/ "Official Website")
 
@@ -3347,13 +2622,7 @@ Free Content
 
 React Native is a popular JavaScript-based mobile app framework that allows you to build natively-rendered mobile apps for iOS and Android. The framework lets you create an application for various platforms by using the same codebase.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITE``` [Official Website](https://reactnative.dev/ "Official Website")
 
@@ -3369,13 +2638,7 @@ Free Content
 
 NativeScript is an open source framework for creating native iOS and Android apps in Angular, TypeScript, or JavaScript.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITE``` [Official Website](https://nativescript.org/ "Official Website")
 
@@ -3396,13 +2659,7 @@ Flutter consists of two important parts:
 Dart focuses on front-end development, and you can use it to create mobile and web applications.
 If you know a bit of programming, Dart is a typed object programming language. You can compare Dart's syntax to JavaScript.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITE``` [Flutter Website](https://flutter.dev/ "Flutter Website")
 
@@ -3422,13 +2679,7 @@ Free Content
 
 Ionic framework is an open-source UI toolkit for building performant, high-quality mobile apps, desktop apps, and progressive web apps using web technologies such as HTML, CSS, and JavaScript.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITE``` [Official Website](https://ionicframework.com/ "Official Website")
 
@@ -3446,13 +2697,7 @@ Free Content
 
 Electron allows you to build cross-platform desktop applications with HTML, CSS, and Javascript/Typescript. It uses Chromium and Node.js, so essentially it is a "Browser" like application that is compatbile with Mac, Windows, and Linux.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITE``` [Electron Website](https://www.electronjs.org/ "Electron Website")
 
@@ -3466,13 +2711,7 @@ Free Content
 
 Carlo is a headful Node app framework for building desktop applications.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL REP``` [Github Repository](https://github.com/GoogleChromeLabs/carlo "Github Repository")
 
@@ -3486,13 +2725,7 @@ Free Content
 
 Proton Native allows you to create desktop applications through a React syntax, on all platforms.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITE``` [Official Website and Docs](https://proton-native.js.org/ "Official Website and Docs")
 
@@ -3508,13 +2741,7 @@ WebAssembly is a new type of code that can be run in modern web browsers — it 
 Web Assembly or WASM is the binary instructions generated from higher level languages such as Go, C, C++ or Rust. It is faster than JavaScript and WASM 1.0 has already shipped in the major browsers.
 W3C accepted it as an official standard at the end of 2019. It will still take quite some time to go mainstream though.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITE``` [Official Website](https://webassembly.org/ "Official Website")
 
@@ -3532,13 +2759,7 @@ Free Content
 
 A key to building software that meets requirements without defects is testing. Software testing helps developers know they are building the right software. When tests are run as part of the development process (often with continuous integration tools), they build confidence and prevent regressions in the code.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [What is Software Testing?](https://www.guru99.com/software-testing-introduction-importance.html "What is Software Testing?")
 
@@ -3552,13 +2773,7 @@ Free Content
 
 Integration testing a broad category of tests where multiple software modules are ```integrated``` and tested as a group. It is meant to test the ```interaction``` between multiple services, resources, or modules. For example, an API's interaction with a backend service, or a service with a database.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Integration Testing](https://www.guru99.com/integration-testing.html "Integration Testing")
 
@@ -3572,13 +2787,7 @@ Free Content
 
 Unit testing is where individual ```units``` (modules, functions/methods, routines, etc.) of software are tested to ensure their correctness. This low-level testing ensures smaller components are functionally sound while taking the burden off of higher-level tests. Generally, a developer writes these tests during the development process and they are run as automated tests.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Unit Testing Tutorial](https://www.guru99.com/unit-testing-guide.html "Unit Testing Tutorial")
 
@@ -3592,13 +2801,7 @@ Free Content
 
 Functional testing is where software is tested to ensure functional requirements are met. Usually, it is a form of black box testing in which the tester has no understanding of the source code; testing is performed by providing input and comparing expected/actual output. It contrasts with non-functional testing, which includes performance, load, scalability, and penetration testing.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [What is Functional Testing?](https://www.guru99.com/functional-testing.html "What is Functional Testing?")
 
@@ -3612,13 +2815,7 @@ Free Content
 
 CI/CD (Continuous Integration/Continuous Deployment) is the practice of automating building, testing, and deployment of applications with the main goal of detecting issues early, and provide quicker releases to the production environment.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```WATCH``` [DevOps CI/CD Explained in 100 Seconds by Fireship](https://www.youtube.com/watch?v=scEDHsr3APg&ab_channel=Fireship "DevOps CI/CD Explained in 100 Seconds by Fireship")
 
@@ -3638,13 +2835,7 @@ Design patterns are typical solutions to commonly occurring problems in software
 - Structural Patterns to provide relationship between objects
 - Behavioral Patterns to help define how objects interact
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans "Design Patterns for Humans")
 
@@ -3664,13 +2855,7 @@ Free Content
 
 Test driven development (TDD) is the process of writing tests for software's requirements which will fail until the software is developed to meet those requirements. Once those tests pass, then the cycle repeats to refactor code or develop another feature/requirement. In theory, this ensures that software is written to meet requirements in the simplest form, and avoids code defects.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [What is Test Driven Development (TDD)?](https://www.guru99.com/test-driven-development.html "What is Test Driven Development (TDD)?")
 
@@ -3692,13 +2877,7 @@ SOLID is a set of principles applied to object-oriented design (OOD) to create m
 - Interface Segregation
 - Dependency Inversion
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```ORIGINAL PAPER``` [Design Principles and Design Patterns](https://web.archive.org/web/20150906155800/http://www.objectmentor.com/resources/articles/Principles_and_Patterns.pdf "Design Principles and Design Patterns")
 
@@ -3714,13 +2893,7 @@ Free Content
 
 Keep It Simple, Stupid (KISS) is a software design principle that states avoiding needless complexity is the best way to build software that is easier to maintain, understand, and contains fewer defects. A simple product that does a single thing well is better than a complex product that does many things poorly.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Keep It Simple](https://deviq.com/principles/keep-it-simple "Keep It Simple")
 
@@ -3734,13 +2907,7 @@ Free Content
 
 You Aren't Going to Need It (YAGNI) is a software design principle from the Extreme Programming (XP) framework that states when developing software, functionality or features should not be added until they are necessary. Within agile software development in general, requirements are always open to change; any extra functionality may end up being wasted time and resources.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Yagni](https://martinfowler.com/bliki/Yagni.html "Yagni")
 
@@ -3754,12 +2921,7 @@ Free Content
 
 Don't Repeat Yourself (DRY) is a software design principle which encourages developers to not repeat software patterns or code. DRY encourages code reusability, often in the form of methods, functions, or subroutines. When DRY is implemented successfully, developers are able to make one change to update many related elements while avoiding making changes to unrelated elements.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
+<details><summary>Free Content</summary></br>
 
 
 ```READ``` [Software Design Principles DRY and KISS](https://dzone.com/articles/software-design-principles-dry-and-kiss "Software Design Principles DRY and KISS")
@@ -3776,13 +2938,7 @@ Free Content
 
 Monolithic architecture is a pattern in which an application handles requests, executes business logic, interacts with the database, and creates the HTML for the front end. In simpler terms, this one application does many things. It's inner components are highly coupled and deployed as one unit.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Pattern: Monolithic Architecture](https://microservices.io/patterns/monolithic.html "Pattern: Monolithic Architecture")
 
@@ -3796,13 +2952,7 @@ Free Content
 
 Microservice architecture is a pattern in which highly cohesive, loosely coupled services are separately developed, maintained, and deployed. Each component handles an individual function, and when combined, the application handles an overall business function.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Pattern: Microservice Architecture](https://microservices.io/patterns/microservices.html "Pattern: Microservice Architecture")
 
@@ -3816,13 +2966,7 @@ Free Content
 
 SOA, or service-oriented architecture, defines a way to make software components reusable via service interfaces. These interfaces utilize common communication standards in such a way that they can be rapidly incorporated into new applications without having to perform deep integration each time.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```REFERENCE MODEL``` [Reference Architecture Foundation for Service Oriented Architecture](http://docs.oasis-open.org/soa-rm/soa-ra/v1.0/soa-ra.html "Reference Architecture Foundation for Service Oriented Architecture")
 
@@ -3838,13 +2982,7 @@ Free Content
 
 Serverless is an architecture in which a developer builds and runs applications without provisioning or managing servers. With cloud computing/serverless, servers exist but are managed by the cloud provider. Resources are used as they are needed, on demand and often using auto scaling.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Serverless](https://www.ibm.com/cloud/learn/serverless "Serverless")
 
@@ -3862,13 +3000,7 @@ Free Content
 
 Elastic search at its core is a document-oriented search engine. It is a document based database that lets you INSERT, DELETE , RETRIEVE and even perform analytics on the saved records. But, Elastic Search is unlike any other general purpose database you have worked with, in the past. It's essentially a search engine and offers an arsenal of features you can use to retrieve the data stored in it, as per your search criteria. And that too, at lightning speeds.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITE``` [Elasticsearch Website](https://www.elastic.co/elasticsearch/ "Elasticsearch Website")
 
@@ -3886,13 +3018,7 @@ Free Content
 
 Message brokers are an inter-application communication technology to help build a common integration mechanism to support cloud-native, microservices-based, serverless, and hybrid cloud architectures. Two of the most famous message brokers are ```RabbitMQ``` and ```Apache Kafka```
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```WATCH``` [Introduction to Message Brokers](https://www.youtube.com/watch?v=57Qr9tk6Uxc "Introduction to Message Brokers")
 
@@ -3904,13 +3030,7 @@ Free Content
 
 With tens of thousands of users, RabbitMQ is one of the most popular open-source message brokers. RabbitMQ is lightweight and easy to deploy on-premises and in the cloud. It supports multiple messaging protocols. RabbitMQ can be deployed in distributed and federated configurations to meet high-scale, high-availability requirements.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [RabbitMQ Tutorials](https://www.rabbitmq.com/getstarted.html "RabbitMQ Tutorials")
 
@@ -3924,13 +3044,7 @@ Free Content
 
 Apache Kafka is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Apache Kafka quickstart](https://kafka.apache.org/quickstart "Apache Kafka quickstart")
 
@@ -3944,13 +3058,7 @@ Free Content
 
 Containers and virtual machines are the two most popular approaches to setting up a software infrastructure for your organization.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Containerization vs. Virtualization: Everything you need to know](https://middleware.io/blog/containerization-vs-virtualization/ "Containerization vs. Virtualization: Everything you need to know")
 
@@ -3964,13 +3072,7 @@ Free Content
 
 Docker is a platform for working with containerized applications. Among its features are a daemon and client for managing and interacting with containers, registries for storing images, and a desktop application to package all these features together.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITE``` [Docker Documentation](https://docs.docker.com/ "Docker Documentation")
 
@@ -3994,13 +3096,7 @@ Free Content
 
 GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Introduction to GraphQL](https://graphql.org/learn/ "Introduction to GraphQL")
 
@@ -4018,13 +3114,7 @@ Free Content
 
 Apollo is a platform for building a unified graph, a communication layer that helps you manage the flow of data between your application clients (such as web and native apps) and your back-end services.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITE``` [Apollo Website](https://www.apollographql.com/ "Apollo Website")
 
@@ -4042,13 +3132,7 @@ Free Content
 
 Relay is a JavaScript client used in the browser to fetch GraphQL data. It's a JavaScript framework developed by Facebook for managing and fetching data in React applications. It is built with scalability in mind in order to power complex applications like Facebook. The ultimate goal of GraphQL and Relay is to deliver instant UI-response interactions.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITE``` [Official Website](https://relay.dev/ "Official Website")
 
@@ -4068,13 +3152,7 @@ Free Content
 
 Web sockets are defined as a two-way communication between the servers and the clients, which mean both the parties, communicate and exchange data at the same time. This protocol defines a full duplex communication from the ground up. Web sockets take a step forward in bringing desktop rich functionalities to the web browsers.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```READ``` [Introduction to WebSockets](https://www.tutorialspoint.com/websockets/index.htm "Introduction to WebSockets")
 
@@ -4090,13 +3168,7 @@ Free Content
 
 NGINX is a powerful web server and uses a non-threaded, event-driven architecture that enables it to outperform Apache if configured correctly. It can also do other important things, such as load balancing, HTTP caching, or be used as a reverse proxy.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITE``` [Official Website](https://nginx.org/ "Official Website")
 
@@ -4110,13 +3182,7 @@ Free Content
 
 Apache is a free, open-source HTTP server, available on many operating systems, but mainly used on Linux distributions. It is one of the most popular options for web developers, as it accounts for over 30% of all the websites, as estimated by W3Techs.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITE``` [Apache Server Website](https://httpd.apache.org/ "Apache Server Website")
 
@@ -4130,13 +3196,7 @@ Free Content
 
 The Caddy web server is an extensible, cross-platform, open-source web server written in Go. It has some really nice features like automatic SSL/HTTPs and a really easy configuration file.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITE``` [Official Website](https://caddyserver.com/ "Official Website")
 
@@ -4150,13 +3210,7 @@ Free Content
 
 Internet Information Services (IIS) for Windows® Server is a flexible, secure and manageable Web server for hosting anything on the Web.
 
-
-<details>
-<summary>
-Free Content
-</summary>
-</br>
-
+<details><summary>Free Content</summary></br>
 
 ```OFFICIAL WEBSITE``` [Official Website](https://www.iis.net/ "Official Website")
 
