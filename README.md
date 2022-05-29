@@ -291,6 +291,27 @@ Courses
 
 <details>
 <summary>
+YouTube Playlists
+</summary>
+</br>
+
+- ```PT-BR``` [Curso de Banco de Dados MySQL](https://www.youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r "Curso de Banco de Dados MySQL")
+- ```PT-BR``` [Curso de Bases Numéricas (Binário, Octal, Hexadecimal)](https://www.youtube.com/playlist?list=PLHz_AreHm4dlmeSpWzJGWOmFnVF5k_IYi "Curso de Bases Numéricas (Binário, Octal, Hexadecimal)")
+- ```PT-BR``` [Curso de Git e GitHub: grátis, prático e sem usar comandos no terminal](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA "Curso de Git e GitHub: grátis, prático e sem usar comandos no terminal")
+- ```PT-BR``` [Curso de Lógica de Programação](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV "Curso de Lógica de Programação")
+- ```PT-BR``` [Curso de Programação C Completo](https://www.youtube.com/playlist?list=PLqJK4Oyr5WSjjEQCKkX6oXFORZX7ro3DA "Curso de Programação C Completo")
+- ```PT-BR``` [Curso completo e atual de HTML5 e CSS3 - Módulo 1 de 5](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n "Curso completo e atual de HTML5 e CSS3 - Módulo 1 de 5")
+- ```PT-BR``` [Curso HTML5 e CSS3 - Módulo 2 de 5](https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s "Curso HTML5 e CSS3 - Módulo 2 de 5")
+- ```PT-BR``` [Curso HTML5 e CSS3 - Módulo 3 de 5](https://www.youtube.com/playlist?list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ "Curso HTML5 e CSS3 - Módulo 3 de 5")
+- ```PT-BR``` [Curso de Python 3 - Mundo 1: Fundamentos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6 "Curso de Python 3 - Mundo 1: Fundamentos")
+- ```PT-BR``` [Curso de Python 3 - Mundo 2: Estruturas de Controle](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye "Curso de Python 3 - Mundo 2: Estruturas de Controle")
+- ```PT-BR``` [Curso de Python 3 - Mundo 3: Estruturas Compostas](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH "Curso de Python 3 - Mundo 3: Estruturas Compostas")
+- ```PT-BR``` [Exercícios de Python 3](https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT- "Exercícios de Python 3")
+
+</details>
+
+<details>
+<summary>
 Books
 </summary>
 </br>
