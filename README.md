@@ -291,10 +291,12 @@ Courses
 
 <details>
 <summary>
-YouTube Playlists
+YouTube
 </summary>
 </br>
 
+
+- [CodeVault - Answers for developers](https://www.youtube.com/c/CodeVault "CodeVault - Answers for developers")
 - ```PT-BR``` [Curso de Banco de Dados MySQL](https://www.youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r "Curso de Banco de Dados MySQL")
 - ```PT-BR``` [Curso de Bases Numéricas (Binário, Octal, Hexadecimal)](https://www.youtube.com/playlist?list=PLHz_AreHm4dlmeSpWzJGWOmFnVF5k_IYi "Curso de Bases Numéricas (Binário, Octal, Hexadecimal)")
 - ```PT-BR``` [Curso de Git e GitHub: grátis, prático e sem usar comandos no terminal](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA "Curso de Git e GitHub: grátis, prático e sem usar comandos no terminal")
